@@ -1,4 +1,4 @@
-# Predictive framework for PLA-based composites processed by FFF
+# Exploratory analysis for PLA-based composites processed by FFF
 
 This repository contains the experimental dataset and Python notebooks associated with the manuscript.
 
