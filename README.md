@@ -1,6 +1,6 @@
 # Can Machine Learning Support the Inverse Design of Sustainable PLA-Based Composites for Fused Filament Fabrication with Limited Data? An Exploratory Analysis
 
-**Davide Renzi¹†, Daniela Fico²†, Elisabetta Monaldo¹*, Roberto Vergallo³*, Sonia Marfia¹, Carola Esposito Corcione²**
+**Davide Renzi¹†, Daniela Fico²†, Elisabetta Monaldo¹‡, Roberto Vergallo³‡, Sonia Marfia¹, Carola Esposito Corcione²**
 
 ¹ Department of Civil, Computer Science and Aeronautical Technologies Engineering, Roma Tre University, Rome (RM), 00146, Italy
 
@@ -10,7 +10,7 @@
 
 † These authors contributed equally to this work.
 
-* Corresponding authors: Elisabetta Monaldo and Roberto Vergallo.
+‡ Corresponding authors: Elisabetta Monaldo and Roberto Vergallo.
 
 ## Overview
 
