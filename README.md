@@ -52,8 +52,6 @@ The dataset is provided in the `dataset/` folder. The notebooks use relative pat
 
 ## Notes
 
-## Notes
-
 If you use the data or code provided in this repository, please cite the following paper:
 
 Renzi, D., Fico, D., Monaldo, E., Vergallo, R., Marfia, S., & Esposito Corcione, C. “Can Machine Learning Support the Inverse Design of Sustainable PLA-Based Composites for Fused Filament Fabrication with Limited Data? An Exploratory Analysis.” Materials Today Communications.
