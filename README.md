@@ -1,6 +1,20 @@
-# Exploratory analysis for PLA-based composites processed by FFF
+# Can Machine Learning Support the Inverse Design of Sustainable PLA-Based Composites for Fused Filament Fabrication with Limited Data? An Exploratory Analysis
 
-This repository contains the experimental dataset and Python notebooks associated with the manuscript.
+**Davide Renzi¹†, Daniela Fico²†, Elisabetta Monaldo¹*, Roberto Vergallo³*, Sonia Marfia¹, Carola Esposito Corcione²**
+
+¹ Department of Civil, Computer Science and Aeronautical Technologies Engineering, Roma Tre University, Rome (RM), 00146, Italy
+
+² Department of Engineering for Innovation, University of Salento, Monteroni di Lecce (LE), Italy
+
+³ Pegaso Digital University, Department of Information Science and Technology, Naples (NA), Italy
+
+† These authors contributed equally to this work.
+
+* Corresponding authors: Elisabetta Monaldo and Roberto Vergallo.
+
+## Overview
+
+This repository contains the experimental dataset and Python notebooks accompanying the article identified above, accepted for publication in Materials Today Communications.
 
 ## Repository structure
 
